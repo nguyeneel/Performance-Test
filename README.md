@@ -21,6 +21,9 @@
 - Duration Assertion
   * To verify load time of request
  
+ ------------
+ Image form test plan
+ 
   <img width="1142" alt="image" src="https://github.com/nguyeneel/Performance-Test/assets/57245198/1ed54906-ce10-44b3-9e49-b6eed0cd25e9">
 
  
