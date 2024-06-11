@@ -22,8 +22,14 @@
   * To verify load time of request
  
  ------------
- Image form test plan
- 
+ Some image from test plan
+- API register new user
   <img width="1142" alt="image" src="https://github.com/nguyeneel/Performance-Test/assets/57245198/1ed54906-ce10-44b3-9e49-b6eed0cd25e9">
+
+- Test result
+<img width="1254" alt="image" src="https://github.com/nguyeneel/Performance-Test/assets/57245198/dd31c600-edb4-44bc-a10e-6e0c6f2c6f8e">
+
+- Aggregate Report
+<img width="1254" alt="image" src="https://github.com/nguyeneel/Performance-Test/assets/57245198/6846e7b8-4628-40c2-8c1f-ea9187295ded">
 
  
