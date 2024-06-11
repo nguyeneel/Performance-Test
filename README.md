@@ -8,7 +8,7 @@
 - Put .csv file into same folder with test plan
 
 3. Explanation
-- Thread group
+- Thread Group
   * To configure number of CCUs, Ramp-up time, Duration of test
 - User Defined Variable
   * To add variable
@@ -20,4 +20,7 @@
   * To verify resposne body
 - Duration Assertion
   * To verify load time of request
+ 
+  <img width="1142" alt="image" src="https://github.com/nguyeneel/Performance-Test/assets/57245198/1ed54906-ce10-44b3-9e49-b6eed0cd25e9">
+
  
